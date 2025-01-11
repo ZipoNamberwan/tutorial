@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.35.2",
     "puppeteer": "^23.11.1"
   }
 }
